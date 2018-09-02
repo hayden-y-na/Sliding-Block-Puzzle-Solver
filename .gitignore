@@ -1,0 +1,6 @@
+/.settings
+/.project
+/bin
+.DS_store
+*.yj
+/out
